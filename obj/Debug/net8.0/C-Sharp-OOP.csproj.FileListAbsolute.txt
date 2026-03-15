@@ -1,0 +1,15 @@
+/home/phoenix/Documents/Work/C-Sharp-OOP/bin/Debug/net8.0/C-Sharp-OOP
+/home/phoenix/Documents/Work/C-Sharp-OOP/bin/Debug/net8.0/C-Sharp-OOP.deps.json
+/home/phoenix/Documents/Work/C-Sharp-OOP/bin/Debug/net8.0/C-Sharp-OOP.runtimeconfig.json
+/home/phoenix/Documents/Work/C-Sharp-OOP/bin/Debug/net8.0/C-Sharp-OOP.dll
+/home/phoenix/Documents/Work/C-Sharp-OOP/bin/Debug/net8.0/C-Sharp-OOP.pdb
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.AssemblyInfoInputs.cache
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.AssemblyInfo.cs
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.csproj.CoreCompileInputs.cache
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.sourcelink.json
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.dll
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/refint/C-Sharp-OOP.dll
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.pdb
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/C-Sharp-OOP.genruntimeconfig.cache
+/home/phoenix/Documents/Work/C-Sharp-OOP/obj/Debug/net8.0/ref/C-Sharp-OOP.dll

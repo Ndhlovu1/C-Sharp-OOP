@@ -63,7 +63,26 @@ public static void Main(string[] args)
         Console.WriteLine("Calling Dog to Eat");
         Dog dog = new Dog();
         dog.Eat();
+
+        Cat myCat = new Cat();
+        myCat.Eat();
+
+        List<Animal> animals = new List<Animal>();
+        animals.Add(new Dog());
+        animals.Add(new Cat());
+
+        Animal ani = new Animal();
+        ani.makeSound();
+
+        foreach (Animal animal in animals)
+        {
+            Console.WriteLine("Animal sound:");
+            animal.makeSound();
+        }
+
         
+
+    
     }
 
 
